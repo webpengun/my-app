@@ -7,6 +7,7 @@ function App() {
             <header className="App-header">
                 <h1>修正しましたF</h1>
                 <button>テスト</button>
+                <button>テスト2-testブランチ</button>
             </header>
         </div>
     );
